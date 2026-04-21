@@ -16,8 +16,8 @@ Bugdety
 - Rahma Mohamed
 - Menna Khaled
 - Rana Khaled
-- Mariam
-- Menna 
+- Mariam Mustafa
+- Menna Mohamed
 
 ## Project (Figma Link)
 [Paste your Figma link here]
