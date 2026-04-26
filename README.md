@@ -10,7 +10,8 @@ Mobile Application
 Bugdety 
 
 ## Project Idea
-[اكتب الفكرة بالعربي]
+Budgety 
+ هو تطبيق ذكي لتخطيط السفر يعطي الأولوية للوضوح المالي منذ البداية. تقوم المنصة بتنظيم رحلات شخصية داخل مصر وخارجها بناءً على ميزانية محددة مسبقًا ومستوى الإقامة ومدة الرحلة، مما يضمن بقاء كل توصية واقعية وقابلة للتحقيق. ومن خلال دمج التكاليف المقدرة للنقل والسكن والطعام والأنشطة في خطة واحدة منظمة، يحول التطبيق قيود الميزانية إلى تجربة سفر واضحة ومنظمة وخالية من التوتر.
 
 ## Team Members
 - Rahma Mohamed
@@ -20,4 +21,4 @@ Bugdety
 - Menna Mohamed
 
 ## Project (Figma Link)
-[Paste your Figma link here]
+(https://www.figma.com/design/MI5YLB4RxL69GVP4NlVDG8/GP_CAI4_G5_P5?node-id=0-1&t=XYwYcqs8MVWjGkcZ-1)
